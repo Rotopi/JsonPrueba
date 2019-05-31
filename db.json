@@ -9,10 +9,10 @@
     },
     {
       "id": 2,
-      "name": "Miguel",
+      "name": "Maria",
        "age": "12",
-      "email" : "Miguel@gmail.com",
-      "sex" :"Masculino"
+      "email" : "Maria@gmail.com",
+      "sex" :"Fememino"
     },
     {
       "id": 3,
