@@ -2,15 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "title": "Juan"
+      "Name": "Juan",
+      "age": "12",
+      "email" : "Juan@gmail.com",
+      "sex" :"Masculino"
     },
     {
       "id": 2,
-      "title": "Miguel"
+      "name": "Miguel",
+       "age": "12",
+      "email" : "Miguel@gmail.com",
+      "sex" :"Masculino"
     },
     {
       "id": 3,
-      "title": "Mario"
+      "name": "Mario",
+      "age": "12",
+      "email" : "Mario@gmail.com",
+      "sex" :"Masculino"
     }
   ]
 }
