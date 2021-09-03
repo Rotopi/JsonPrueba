@@ -7,6 +7,13 @@
       "email" : "Juan@gmail.com",
       "sex" :"Masculino"
     },
+     {
+      "id": 3,
+      "name": "Mario Hugo",
+      "age": "12",
+      "email" : "Mario@gmail.com",
+      "sex" :"Masculino"
+    },
     {
       "id": 2,
       "name": "Maria",
