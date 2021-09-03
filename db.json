@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "name": "Juan",
+      "name": "Antonio",
       "age": "12",
       "email" : "Juan@gmail.com",
       "sex" :"Masculino"
